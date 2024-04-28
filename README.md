@@ -10,4 +10,4 @@ lib -nologo stb_perlin.obj -out:stb_perlin.lib
 ```
 
 ## TODO
-    - Linux/MacOS support
+ - Linux/MacOS support
